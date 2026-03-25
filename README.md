@@ -40,7 +40,8 @@ This project is a Python-based web scraper that extracts product data from an e-
 
 1\. Clone the repository:
 
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/afthabsadique602/product-web-scraper
+.git
 
 
 
